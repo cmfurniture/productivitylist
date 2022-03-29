@@ -1,0 +1,6 @@
+0.0.0.0 youtube.com
+0.0.0.0 facebook.com
+0.0.0.0 twitter.com
+0.0.0.0 reddit.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtubei.googleapis.com
